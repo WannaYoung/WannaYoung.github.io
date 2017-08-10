@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我的博客</title>
+  <title>WannaYoung</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://wannayoung.github.io/"/>
   <updated>2017-08-09T09:57:36.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://wannayoung.github.io/</id>
   
   <author>
-    <name>Wang Yang</name>
+    <name>WannaYoung</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/08/09/hello-world/"/>
-    <id>http://yoursite.com/2017/08/09/hello-world/</id>
+    <link href="https://wannayoung.github.io/2017/08/09/hello-world/"/>
+    <id>https://wannayoung.github.io/2017/08/09/hello-world/</id>
     <published>2017-08-09T09:57:36.000Z</published>
     <updated>2017-08-09T09:57:36.000Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>第一篇博客</title>
-    <link href="http://yoursite.com/2017/08/09/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2017/08/09/第一篇博客/</id>
+    <link href="https://wannayoung.github.io/2017/08/09/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://wannayoung.github.io/2017/08/09/第一篇博客/</id>
     <published>2017-08-09T09:17:55.000Z</published>
     <updated>2017-08-09T11:08:58.000Z</updated>
     
@@ -54,14 +54,14 @@
     </summary>
     
     
-      <category term="iOS" scheme="http://yoursite.com/tags/iOS/"/>
+      <category term="iOS" scheme="https://wannayoung.github.io/tags/iOS/"/>
     
   </entry>
   
   <entry>
     <title>Hexo搭建个人博客并部署到Github</title>
-    <link href="http://yoursite.com/2017/04/09/hexo-blog/"/>
-    <id>http://yoursite.com/2017/04/09/hexo-blog/</id>
+    <link href="https://wannayoung.github.io/2017/04/09/hexo-blog/"/>
+    <id>https://wannayoung.github.io/2017/04/09/hexo-blog/</id>
     <published>2017-04-09T06:49:13.000Z</published>
     <updated>2017-08-09T09:57:36.000Z</updated>
     
@@ -86,10 +86,10 @@
     
     </summary>
     
-      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+      <category term="Hexo" scheme="https://wannayoung.github.io/categories/Hexo/"/>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://wannayoung.github.io/tags/Hexo/"/>
     
   </entry>
   
